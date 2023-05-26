@@ -1,12 +1,14 @@
-## Hi there 👋
+## Project: 데스노트
 
-<!--
+마인크래프트 방송에 질서를 가져오다.
+질서는 화합과 평화로 얻어내는 것이 아닌 탄압과 격리로 얻어내는 것입니다.
 
-**Here are some ideas to get you started:**
+이 프로젝트는 악성 유저를 마인크래프트 방송의 시청자 참여에서 완전히 격리하기 위해 시작되었습니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+인증된 서비스 이용자가 등록한 데이터는 프로젝트 관리자들에 의해 검토되고 등록되며 이 등록된 모든 데이터는 서비스 이용자 모두에게 반영됩니다.
+
+마인크래프트 지원 계획:
+ - 플랫폼: 자바에디션
+ - 타입: 
+   - 플러그인: 1.13 ~ 1.20
+   - 패브릭 모드: 1.18 ~ 1.20
